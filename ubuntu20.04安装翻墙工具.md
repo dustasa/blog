@@ -1,0 +1,1 @@
+笔者采用Qv2ray, 部分参考[Linux配置v2ray详细教程-Ubuntu为例](https://mahongfei.com/1776.html "Linux配置v2ray详细教程-Ubuntu为例")，下载最新release版本即可
