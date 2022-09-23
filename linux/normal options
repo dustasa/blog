@@ -1,0 +1,6 @@
+# open file in ubuntu
+nautilus ./
+# get file size by recursion
+du -sh xxxx
+# check progress on top
+ps -ef |grep ''
